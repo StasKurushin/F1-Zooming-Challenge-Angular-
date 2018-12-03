@@ -1,4 +1,4 @@
-# F1-Zooming-Challenge-Angular-
+# F1-Zooming-Challenge-Angular-:monkey::checkered_flag:
 ------------
 ### Run project :zap:
 * git clone https://github.com/StasKurushin/F1-Zooming-Challenge.git
