@@ -4,7 +4,7 @@
 * git clone https://github.com/StasKurushin/F1-Zooming-Challenge.git
 * cd F1-Zooming-Challenge
 * npm i
-* npm run dev
+* ng serve --open
 -------------
 ### Implementation :point_down:
 
