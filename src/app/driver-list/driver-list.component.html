@@ -1,0 +1,9 @@
+<div>
+    <ul *ngFor='let driver of drivers'>
+      <li>
+        <a routerLink='/drivers/{{driver.driverId}}'>
+          {{driver.givenName + ' ' + driver.familyName}}
+        </a>
+      </li>
+    </ul>
+  </div>
